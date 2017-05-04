@@ -1,4 +1,35 @@
-/** Add a comment at the beginning of your CSS styles with your name**/
+/** Add a comment at the beginning of your CSS styles with your name**//** Cedric's Styles **/
+
+/** Ced's Styles **/
+.ced-advice body {
+	background-color: lightblue;
+	font-family: Times, sans-serif;
+	color: midnightblue;
+	font-size: 50px;
+}
+.ced-advice main-page {
+	background-color: yellow;
+}
+.ced-advice h1, h4 {
+    color: midnightblue;
+}
+.ced-advice h4 {
+	font-family: Ariel, sans-serif;
+	font-size: 26px;
+	color: midnightblue;
+}
+.ced-advice p {
+	font-family: "Julius Sans One", sans-serif;
+	color: midnightblue;
+	font-weight: 200;
+	font-size: 20px;
+	text-align: justify;
+}
+.ced-advice div {
+	text-align: justify;
+	margin-left: 50px;
+	margin-right: 50px;
+/** end Ced advice styling **/
 
 /** Ozge's Styles **/
 .ozge-advice {
