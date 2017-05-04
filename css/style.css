@@ -4011,6 +4011,59 @@ body.parismarron-advice{
 
 /* end of Joanne's styles */
 
+/* The Bee Letter Styles */
+
+.thebeeletter body{
+	background-color: #ccb3ff;
+}
+
+.thebeeletter a, h1, p {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.thebeeletter a {
+	text-decoration: none;
+	color: #cc9900;
+	font-size: 14px;
+}
+
+.thebeeletter h1 {
+	text-align: center;
+	color: #4d004d;
+	font-size: 24px;
+	line-height: 30px;
+}
+
+.thebeeletter h4 {
+	font-family: 'Josefin Sans', sans-serif;
+	color: #4d004d;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 20px;
+	text-transform: uppercase;
+	text-align: left;
+}
+
+.thebeeletter p {
+	font-size: 16px;
+	text-align: justify;
+}
+
+.thebeeletter span {
+		color: #737373;
+}
+
+.thebeeletter footer {
+	padding-top: 40px;
+	color: #cc9900;
+	font-size: 14px;
+}
+
+.thebeeletter footer p{
+	text-align: center;
+}
+/* End of The Bee Letter's styles */
+
 /*Start Sarah Elle's Styles */
 .sarahloftus-advice {
 	font-family: 'Times New Roman', 'serif';
@@ -4088,6 +4141,35 @@ body.parismarron-advice{
 .cotterpinx-advice p {
 	text-align: left;
 	font-family: serif;
+}
+/** Sakena Jwan Washington's Styles **/
+.sakenajwan-advice {
+	background-color: #FAFAF7;
+}
+.sakenajwan-advice a {
+	color: #ABABA7;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.sakenajwan-advice h1 {
+	color: #BD7DB5;
+	font-family: 'Abhaya Libre', serif;
+}
+
+.sakenajwan-advice h2 {
+	color: #2d5986;
+	font-family: 'Abhaya Libre', serif;
+}
+
+.sakenajwan-advice {
+	color: #6D7DA3;
+	font-family: 'Abhaya Libre', serif;
+	font-size: 20px
+}
+
+.sakenajwan-advice footer p {
+	color: #ABABA7;
 }
 
 /* End cotterpinx Styles */
